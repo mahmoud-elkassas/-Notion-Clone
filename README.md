@@ -1,5 +1,10 @@
 # Fullstack Notion Clone: Next.js 14, React, Convex, Tailwind
 
+## See here
+
+To explore the live version of the website, visit [here](https://note-notion-app.vercel.app/).
+
+
 This is a repository for Fullstack Notion Clone: Next.js 14, React, Convex, Tailwind ,Clerk and BlockNote
 
 Key Features:
